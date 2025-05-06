@@ -11,7 +11,7 @@
         "console": "integratedTerminal",
         "MIMode": "gdb",
         "miDebuggerPath": "/usr/bin/gdb",
-        "preLaunchTask": "Build <nombre proyecto>"
+        "preLaunchTask": "Build prueba"
       },
     ]
   }
