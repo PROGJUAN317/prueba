@@ -1,0 +1,16 @@
+{
+    "folders": [
+      { "name": "Ejemplo1",   "path": "ejemplo1" },
+      {/*"name: "nombre de la carpeta en mayuscula",  "path": "nombre de la carpeta normal"    */}
+    ],
+    "settings": {
+      // para que CMake Tools busque en la raíz
+      "cmake.sourceDirectory": "${workspaceFolder}"
+    },
+    "extensions": {
+      "recommendations": [
+        "ms-vscode.cpptools",
+        "ms-vscode.cmake-tools"
+      ]
+    }
+  }
